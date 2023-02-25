@@ -1,6 +1,22 @@
 body
 {
     text-align: center;
-    font-family: Arial;
+    font-family: 'Trebuchet MS';;
     color: blueviolet;
+    font-size: 16px;
+    margin: auto;
+    padding: 0%;
+}
+
+#container
+{
+    width: 70%;
+    padding: 1em;
+    text-align: left;
+    border: 1px solid #ddd;
+    margin: auto;
+}
+#container h1
+{
+    font-size: 20px;
 }
